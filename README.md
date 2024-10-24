@@ -1,7 +1,7 @@
-Hii Nxtwave and Flow.ai companay 
+Hii Nxtwave and cultural-link companay 
 My self Prashanth Kumar Reddy 
 
-This is all about my backend part assignment regarding User-financial 
+This is all about my backend part assignment regarding User-financial I choosen this type of data without that todo-list 
 
 I start my project on vsCode 
 1 npm init -y
@@ -14,4 +14,4 @@ I start my project on vsCode
 8 A new user should loging into user table then in the login API it returns JWT token with that toke we wiil using for all networking calls like API to get data from the databse sp 
 9 This is all about my assignment sp 
 
-Thank You Nxtwave and flow.ai company sp
+Thank You Nxtwave and cultural-link company sp
